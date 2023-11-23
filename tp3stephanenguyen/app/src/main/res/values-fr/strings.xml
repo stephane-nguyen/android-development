@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inspecteur de maths</string>
+    <string name="about">A propos</string>
+    <string name="modulo">Module de N/A</string>
+    <string name="user_guide">Guide utilisateur</string>
+    <string name="guide_text">Entrer un nombre dans le champ avec votre clavier. Selectionner un nombre avec le pad numerique.</string>
+</resources>

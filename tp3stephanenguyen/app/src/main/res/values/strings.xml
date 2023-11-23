@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Math inspector</string>
+    <string name="about">About</string>
+    <string name="modulo">Module of N/A</string>
+    <string name="user_guide">User Guide</string>
+    <string name="guide_text">First, enter a number in the input field with your keyboard. Then, select a number thanks to the numeric pad.</string>
+</resources>
