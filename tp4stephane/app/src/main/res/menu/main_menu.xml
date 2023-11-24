@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/edit_name_menu_item"
+        android:title="Click to check username"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/exportJobs"
+        android:title="Export jobs"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/importJobs"
+        android:title="Import jobs"
+        app:showAsAction="never" />
+
+</menu>
