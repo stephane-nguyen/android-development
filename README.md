@@ -1,8 +1,9 @@
 # android-development
 
-This project is made of multiple mini-applications
+This project is made of multiple mini-applications.
 
 TP1 is a currency converter that computes the result after every user interaction.
+> ![img](/images/tp1.png)
 
 TP2 is about discovering implicit and explicit intent.
 - Implicit intent: redirect to an url
@@ -18,6 +19,7 @@ TP3 is a math calculating the modulo of 2 numbers.
 - Display an user guide with a fragment by clicking on the button
 - Display a dialog by clicking on "About".
 - Select a language by clicking either the US or France flag.
+> ![img](/images/tp3.png)
 
 TP4 is an interactive ToDoList.
 - The button Add Job
@@ -28,3 +30,4 @@ TP4 is an interactive ToDoList.
   - Click the check username : Edit username
   - Export jobs: The user can dump the current jobs to a text file.
   - Import jobs: The user can restore jobs from a text file at a later stage.
+> ![img](/images/tp4.png)
